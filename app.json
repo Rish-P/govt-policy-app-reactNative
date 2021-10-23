@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "govt-policy-app",
+    "slug": "govt-policy-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "govt-policy-app"
+}
